@@ -1,0 +1,19 @@
+.generic {
+    background-color: rgb(254, 155, 157);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#number-2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#number-4 {
+    background-color: rgb(126,255, 123) ;
+    font-weight: 700;
+}
+
